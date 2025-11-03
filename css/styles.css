@@ -24,7 +24,6 @@
     transition: transform 0.6s ease, filter 0.3s ease;
 }
 
-/* Эффект при наведении */
 .gallery-item:hover  {
     transform: scale(1.03);
     filter: brightness(1.1);
